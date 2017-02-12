@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>New post</title>
+</head>
+
+<body>
+    <a href="/home">Back to home</a>
+    <form id="newpost" action="/addnew" method="POST">
+        <p>title: </p>
+        <input type="text" name="title" placeholder="title" value="Titre du post">
+        <p>contenu du post</p>
+        <textarea name="content" placeholder="contenu du post" rows="7" cols="50"></textarea><br>
+
+        <button type="submit" id="add">Send</button>
+    </form>
+    </form>
+
+
+    <script src="../node_modules/jquery/dist/jquery.js"></script>
+
+    <script src="../js/app.js"></script>
+
+</body>
+
+</html>

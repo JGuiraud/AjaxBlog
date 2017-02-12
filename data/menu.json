@@ -1,0 +1,20 @@
+{
+    "menu": [
+        {
+            "title": "post1",
+            "link": "http://www.google.fr"
+        },
+        {
+            "title": "post2",
+            "link": "http://www.facebook.fr"
+        },
+        {
+            "title": "post3",
+            "link": "http://www.lemonde.fr"
+        },
+        {
+            "title": "post4",
+            "link": "http://www.liberation.fr"
+        }
+    ]
+}

@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/elgamine-dev/md-blog#readme",
   "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
     "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "semantic-ui-css": "^2.2.4",
     "showdown": "^1.4.3"
   }
